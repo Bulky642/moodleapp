@@ -125,7 +125,7 @@
     "mp3-mediarecorder": "4.0.5",
     "nl.kingsquare.cordova.background-audio": "^1.0.1",
     "ogv": "^1.8.9",
-    "rxjs": "~6.5.5",
+    "rxjs": "~6.6.7",
     "ts-md5": "^1.2.7",
     "tslib": "^2.3.1",
     "video.js": "^7.21.1",
