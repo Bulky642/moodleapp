@@ -43,7 +43,7 @@
     "lang:create-langindex": "./scripts/create_langindex.sh"
   },
   "dependencies": {
-    "@angular/animations": "~10.0.14",
+    "@angular/animations": "~10.2.5",
     "@angular/common": "~10.0.14",
     "@angular/core": "~10.0.14",
     "@angular/forms": "~10.0.14",
